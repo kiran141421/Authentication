@@ -37,8 +37,6 @@ Before running the project, you need to configure the following:
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - [OAuth 2.0](https://oauth.net/2/)
